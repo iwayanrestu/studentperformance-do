@@ -141,7 +141,7 @@ http://localhost:8501
 Aplikasi juga dapat diakses secara online melalui link berikut:
 
 ```
-https://your-streamlit-app-link.streamlit.app
+https://studentperformance-do-satvjug2doldm4kappzvtua.streamlit.app/
 ```
 ---
 
