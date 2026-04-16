@@ -135,7 +135,15 @@ Kemudian buka di browser:
 ```
 http://localhost:8501
 ```
+---
 
+### 3. Akses Aplikasi (Online)
+
+Aplikasi juga dapat diakses secara online melalui link berikut:
+
+```
+https://your-streamlit-app-link.streamlit.app
+```
 ---
 
 ## Business Dashboard
